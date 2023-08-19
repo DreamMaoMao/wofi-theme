@@ -1,5 +1,5 @@
 # wofi-theme
-## purpule
+## purple
 ![image](https://github.com/DreamMaoMao/wofi-theme/assets/30348075/aba946fa-7464-4cc5-b9d5-164dd63efc4c)
 
 ## yellow
