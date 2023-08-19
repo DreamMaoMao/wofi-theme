@@ -12,13 +12,12 @@
 
 # usage
 ```
-yay -S wofi
 git clone https://github.com/DreamMaoMao/wofi-theme.git
 cp wofi-theme/* ~/.config/wofi/
 ```
 
 # select theme
-```
 for example yellow theme:
+```
 cp ~/.config/wofi/yellow.css ~/.config/wofi/style.css
 ```
