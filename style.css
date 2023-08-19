@@ -1,7 +1,7 @@
 #window {
     margin: 0px;
-    border: 2px solid #e2c0f6;
-    background-color: rgba(14, 15, 0, 0.8);
+    border: 3px solid #08551a;
+    background-color: rgba(233, 193, 133, 0.9);
     border-radius: 18px;
 
 
@@ -11,16 +11,16 @@
 #input {
     margin: 5px;
     border: none;
-    color: #f8f8f2;
+    color: #000000;
     border-radius: 18px;
-    background-color: rgba(14, 15, 0, 0.2);
+    background-color: rgba(90, 79, 6, 0.2);
 }
-
+ 
 /* #outer-box {
     margin: 5px;
     border: none;
     border-radius: 15px;
-    background-color: #282a36;
+    background-color: rgba(255,211,145,0.8);;
     } */
 
 #scroll {
@@ -33,7 +33,7 @@
     border-radius: 15px;
     margin: 5px;
     border: none;
-    color: #f8f8f2;
+    color: #000000;
 }
 
 /* #entry.activatable #text {
@@ -46,10 +46,10 @@
 
 #entry:selected {
     border-radius: 15px;
-    background-color: #a68ebd;
+    background-color: #055205;
 }
 
 #entry:selected #text {
-    color: #000000;
+    color: #e8d9b7;
     border-radius: 15px;
 }
