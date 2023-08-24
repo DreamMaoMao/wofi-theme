@@ -10,7 +10,7 @@
 ![image](https://github.com/DreamMaoMao/wofi-theme/assets/30348075/c5b6631b-44ad-4c34-8004-07f9385958b0)
 
 ## green
-![Uploading image.png…]()
+![image](https://github.com/DreamMaoMao/wofi-theme/assets/30348075/d69684cd-5ace-4058-921c-3e2ca2ca6582)
 
 
 # usage
